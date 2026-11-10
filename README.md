@@ -5,10 +5,11 @@ and a BSc Honours in Chemistry (Wits). I build practical tools that turn messy d
 into something people can use, and I work with AI coding tools as a co-pilot.
 
 ### What I've built
-- **Wits CSD Events & Engagement Platform**: contributor to a production Next.js + Supabase app
-  (QR check-in, registrations, galleries, targeted announcements, admin activity logs).
-- **Fee Statement Processor**: Python desktop tool that extracts data from batches of PDF
-  fee statements, fills an Excel workbook and renames files, packaged as an offline .exe for staff.
+- **[Fee Statement Processor](https://github.com/leon-mudau/fee-statement-processor)**: Python desktop tool that
+  extracts data from batches of PDF fee statements, fills an Excel workbook and renames files, packaged as an
+  offline .exe for staff. Includes a Streamlit version, a command line runner, sample data and tests.
+- **[Wits CSD Events & Engagement Platform](https://github.com/leon-mudau/conveo-2)**: contributor to a production
+  Next.js + Supabase app (QR check-in, registrations, galleries, targeted announcements, admin activity logs).
 - **Application marking tool**: Python script that scores programme applications against a
   rubric and flags likely AI-written answers.
 - **Power BI dashboards** for programme participation, student performance and bursary data.
